@@ -1,4 +1,4 @@
-# RPi_smart_house
+# RPi-Smart-House
 
 <p align="center">
   <img src="https://github.com/Amarok505/RPi_smart_house/blob/master/img/smarthouse.jpg" alt="React & Laravel" width="70%"/>
